@@ -1,0 +1,12 @@
+backend/*
+.env
+__pycache__/*
+Controllers/__pycache__/*
+Data/__pycache__/*
+Models/__pycache__/*
+Routes/__pycache__/*
+DataBase/__pycache__/*
+Data/__pycache__/*
+Reports/__pycache__/*
+Security/__pycache__/*
+Services/__pycache__/*
